@@ -13,5 +13,3 @@ O conjunto de dados foi retirado do Projeto Imersão Alura
 Em desenvolvimento :warning:
 
 
-## License
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE] (https://github.com/dnksaraiva/used-cars-data-analysis/blob/main/LICENSE) para obter detalhes.
