@@ -32,3 +32,6 @@ Você também pode optar por usar o [Google Colab](https://colab.research.google
 Em desenvolvimento :warning:
 
 
+## Licença
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](https://github.com/dnksaraiva/drug-discovery-data-analysis/blob/add-license-1/LICENSE) para obter detalhes.
+
