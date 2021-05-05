@@ -6,7 +6,7 @@ Este projeto tem como objetivo demonstrar expertise em Análise Exploratória de
 
 ## Dataset
 
-O conjunto de dados foi retirado do Projeto Imersão Alura
+O conjunto de dados foi retirado do Projeto Imersão de Dados da Alura, você pode obtê-los [aqui](https://github.com/alura-cursos/imersaodados3)
 
 ## Pré-requisitos para contribuir
 
